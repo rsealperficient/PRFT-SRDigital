@@ -1,0 +1,25 @@
+{
+  "template": [
+    {
+      "filename": "header-three.js",
+      "directory": "headers",
+      "content": {
+        "title": "Header Three"
+      }
+    },
+    {
+      "filename": "comp-one.js",
+      "directory": "body-components",
+      "content": {
+        "content": "This is just a test."
+      }
+    },
+    {
+      "filename": "footer-two.js",
+      "directory": "footers",
+      "content": {
+        "title": "Footer Two"
+      }
+    }
+  ]
+}
