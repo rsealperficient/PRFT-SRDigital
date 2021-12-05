@@ -8,4 +8,4 @@ You will need to run `npm install` within the root directory. Once completed wit
 
 ## Demo
 
-To view how this demo works, you must pass the `api` URL parameter with a value of `1`, `2`, or `3`. This will determine which json file you wish to load on the page and render the selected components. You can modify the json files here: `/public/json/`. The components being rendered are available here: `/modules`.
+To view how this demo works, you must pass the `api` URL parameter with a value of `1`, `2`, or `3`. This will determine which json file you wish to load on the page and render the selected components. You can modify the json files here: `/public/static/json/`. The components being rendered are available here: `/modules`.
